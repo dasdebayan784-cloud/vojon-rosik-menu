@@ -1,0 +1,6 @@
+{
+  "name": "Vojon Rosik Menu",
+  "description": "Smart digital menu web app for Vojon Rosik restaurant with Master-Code architecture, review funnel, and admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
