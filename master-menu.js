@@ -10,7 +10,7 @@ export const MASTER_MENU = {
     gstin: "19AAJCV3240M1ZW",
     google_review_url: "https://g.page/r/vojonrosik/review",
     delivery_partners: ["Zomato", "Swiggy"],
-    timing: "12:00 PM - 10:30 PM",
+    timing: "2:00 PM - 10:30 PM",
     notes: "Packaging charge extra | 5% GST extra | Items subject to daily market availability"
   },
   categories: [
