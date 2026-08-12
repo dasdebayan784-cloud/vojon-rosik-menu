@@ -5,7 +5,7 @@ export const MASTER_MENU = {
     nameEnglish: "Vojon Rosik",
     tagline: "Authentic Bengali Delicacies",
     address: "75 Bentinck Street, Kolkata - 700012",
-    phone: "+91 98300 80024",
+    phone: "+91 98300 80022",
     website: "www.vojonrosikbangali.com",
     gstin: "19AAJCV3240M1ZW",
     google_review_url: "https://g.page/r/vojonrosik/review",
